@@ -1,0 +1,14 @@
+upload invoice beserta tanggal
+
+di inventory tambahkan keterangan (untuk memberikan keterangan terkait inventory miliknperusahaan apa.
+
+
+tambahkan form jenis barang  ( 
+
+
+
+
+User :
+Procuitment
+Finance.
+-.

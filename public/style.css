@@ -1,0 +1,16 @@
+.fonts{
+    font-family: 'Nunito', sans-serif;
+}
+
+.header-style{
+    font-size: large;
+    text-transform: capitalize;
+}
+
+.bg-input-form{
+    background-color: white !important;
+  }
+
+.mbti{
+    text-align: right;
+}
